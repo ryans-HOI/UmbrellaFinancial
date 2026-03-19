@@ -136,7 +136,6 @@ Add A record: `umbrella-financial.houseofidentity.io` → EC2 public IP
 | Keycloak Admin | admin | admin |
 | App DB bind | finapp | finapp123 |
 | LDAP bind | svc-finapp | LdapB1nd!Finance2024 |
-| Admin Console | ryan / karin | Orchid2026! |
 | CEO | ceo.thornton | Thornton!CEO2024 |
 | Shared FX Desk | shared.fxdesk | FXDesk!Shared1 |
 
