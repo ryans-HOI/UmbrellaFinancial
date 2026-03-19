@@ -1,0 +1,11 @@
+com\umbrellafinancial\model\User.class
+com\umbrellafinancial\repository\LoginHistoryRepository.class
+com\umbrellafinancial\repository\AccountRepository.class
+com\umbrellafinancial\config\LdapConfig.class
+com\umbrellafinancial\model\Account.class
+com\umbrellafinancial\repository\UserRepository.class
+com\umbrellafinancial\controller\DataController.class
+com\umbrellafinancial\controller\AuthController.class
+com\umbrellafinancial\config\SecurityConfig.class
+com\umbrellafinancial\model\LoginHistory.class
+com\umbrellafinancial\UmbrellaFinancialApplication.class
